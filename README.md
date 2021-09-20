@@ -1,2 +1,4 @@
-# demo_bioinf527
-For BIOINF527 class activities
+---
+Repo for testing
+We will work with this repo for the BIOINF 575 class
+---
